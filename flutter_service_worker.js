@@ -6,7 +6,7 @@ const RESOURCES = {
   "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "d22529b3f01ccee4f9599eb354d6c194",
+"assets/NOTICES": "44bc6d0ca8021fa9dcf39c038bd89bbf",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
@@ -14,15 +14,20 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"icons/apple-touch-icon.png": "824f934790f11ca1f882db108949254b",
+"icons/favicon.ico": "a2429c4a31cf7b07cb8469e59cd2ee9a",
+"icons/icon-192-maskable.png": "131e7ab8d0a4b1a1c82712a9bb2abef8",
+"icons/icon-192.png": "c6093248f4ee3dd4baf47585a23ee3d4",
+"icons/icon-512-maskable.png": "e1622988396785097b8216e7bd30a8fa",
+"icons/icon-512.png": "db059466f97d97b74bbed716c3e82473",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "025c13d10de6150da0df44372bb403e0",
-"/": "025c13d10de6150da0df44372bb403e0",
-"main.dart.js": "72be78e31f12961b2cf20611cb23163b",
+"icons/README.txt": "d3df3991a31f034bfa98afdfa3c622e1",
+"index.html": "608bad4e72ce16ac2d87234f4bcdb1ad",
+"/": "608bad4e72ce16ac2d87234f4bcdb1ad",
+"main.dart.js": "513e78d1ecc81203e6616334d7f51bcb",
 "manifest.json": "2826834fe71e95384032a5564c683e35",
-"version.json": "daf96632d00d9d3ab51992358ab18d72"
+"version.json": "bb29099dfff0098c0af1ac6e6d8f8f01"
 };
 
 // The application shell files that are downloaded before a service worker can
